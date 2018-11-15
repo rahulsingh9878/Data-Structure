@@ -3,7 +3,7 @@
 using namespace std;
 class heap
 {
-	int l,r,F=0,largest;
+	int l,r,F=0, largest;
 	public:
 		void build_max_heap(int arr[],int n)
 		{
